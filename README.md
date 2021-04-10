@@ -1,4 +1,4 @@
-
+<h1 align="center">Covi-Buddy</h1>
 <p align="center">
 </p>
 
