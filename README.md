@@ -16,9 +16,9 @@ A website to obtain all necessary information required regarding the pandemic si
   5) Suggestions for entertainment.
 
 ## Technology Stack:
-  1) HTML
-  2) CSS
-
+  1) HTML 5
+  2) CSS 3
+ 
 ## Contributors:
 
 Team Name: Ciphersquad
