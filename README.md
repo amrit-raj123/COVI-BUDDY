@@ -7,6 +7,12 @@
 
 ## Introduction:
 A website to obtain all necessary information required regarding the pandemic situation like guidelines and information about vaccination process.
+
+## Demo Video Link:
+  <a href="https://drive.google.com/file/d/19HddBXVTXVJNc2vuVIBB2ZJFJpA1uhQC/view"</a>
+  
+## Presentation Link:
+  <a href="https://mnnitedu-my.sharepoint.com/:p:/g/personal/amrit_20204023_mnnit_ac_in/EboCtOe9yqhMuEyY8Gx9dlcBv-7yXSd_JUhwQkSA6fUwGw?e=oKrYRh"> ppt link here </a>
   
 ## Table of Contents:
   1) About Us
